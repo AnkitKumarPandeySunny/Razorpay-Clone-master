@@ -36,7 +36,7 @@ Open index.html in your web browser to explore the Razorpay clone.
 Navigate through the different pages to experience the features and functionalities.
 
 📸 Screenshots
-![Screenshot (45)](https://github.com/user-attachments/assets/6c6e4d1d-9dc6-4cff-ada1-2d107eff3eb1)
+![Screenshot (45)](https://github.com/user-attachments/assets/869a68b6-5243-4e4b-a607-52faf707ab3d)
 
 ![Screenshot (46)](https://github.com/user-attachments/assets/12caa520-0c72-424c-83cf-997a8205403a)
 
