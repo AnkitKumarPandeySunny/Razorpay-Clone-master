@@ -4,6 +4,10 @@ This project is a clone of the Razorpay online payment gateway website, created 
 
 ## 🚀 Live Demo
 
+demo
+![Screenshot (45)](https://github.com/user-attachments/assets/06bab9d6-baf0-4fe7-80d1-37405723c327)
+
+
 Check out the live version of the project: [Razorpay Clone](https://razorpay-clone-ankit.netlify.app/)
 
 ## 🛠️ Features
